@@ -2,12 +2,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev" src="https://github.com/leoniCS99/Bytebank_/blob/main/img/nova-transferencia.PNG" width="80%">
-</p>
-<br>
-
-<p align="center">
-  <img alt="dev" src="https://github.com/leoniCS99/Bytebank_/blob/main/img/extratos.PNG" width="80%">
+  <img alt="dev" src="https://github.com/leoniCS99/Template_Login/blob/main/Login_img.PNG" width="80%">
 </p>
 <br>
 
